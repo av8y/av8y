@@ -17,3 +17,7 @@ im 14 yr olds and ive been learing coding shi 4 abt 2 yrs now.. and yeah lmk buy
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+
+
+
+This was made by [forsaken](https://github.com/iarguealot) just changed it a little
